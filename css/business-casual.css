@@ -44,7 +44,8 @@ hr {
 
 .navbar-brand {
     text-transform: uppercase;
-    font-weight: 900;
+    font-weight: 300;
+    font-family: "Merriweather";
     letter-spacing: 2px;
 }
 
